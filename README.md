@@ -1,6 +1,10 @@
-<h1 align="center">👋 𝗛𝗶, 𝗜’𝗺 𝗦𝗮𝗿𝗮𝗻𝘆𝗮!</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00F7F7,100:7B42F6&height=200&section=header&text=Saranya&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35)
 
-<h2 align="center">🌸 Digital Workspace 🌸</h2>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1200&color=blue&center=true&vCenter=true&width=750&lines=Java+Programming+💻;Always+Learning+New+Things+📚;Full+Stack+Developer+🚀;LeetCode+Enthusiast+🎯;Open+Source+Learner+🌱" />
+</p>
+
+<h2 align="center"> Digital Workspace </h2>
 
 <table align="center">
 <tr>
@@ -49,4 +53,4 @@
 </table>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 
-
+![snake](https://github.com/saranya-1607/saranya-1607/blob/output/github-snake.svg)

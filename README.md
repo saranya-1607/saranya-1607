@@ -32,25 +32,25 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 </p>
 <h3 align="center">📊 GitHub Statistics</h3>
-
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
-  <tr>
-    <td width="50%" style="padding:6px 6px 6px 0;">
-      <img src="https://github-readme-stats.vercel.app/api?username=saranya-1607&show_icons=true&theme=radical" width="100%"/>
-    </td>
-    <td width="50%" style="padding:6px 0 6px 6px;">
-      <img src="https://streak-stats.demolab.com?user=saranya-1607&theme=highcontrast" width="100%"/>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" style="padding:6px 6px 6px 0;">
+     <img src="https://activity-graph.herokuapp.com/graph?username=saranya-1607&theme=react-dark" width="100%"/>
+     
+    </td>
+    <td width="50%" style="padding:6px 0 6px 6px;">
+      <img src="https://streak-stats.demolab.com?user=saranya-1607&theme=highcontrast&cache_seconds=1800" width="100%"/>
+    </td>
+  </tr>
 
-  <tr>
-    <td width="50%" style="padding:6px 6px 0 0;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranya-1607&layout=compact&theme=merko" width="100%"/>
-    </td>
-    <td width="50%" style="padding:6px 0 0 6px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=saranya-1607&theme=react-dark" width="100%"/>
-    </td>
-  </tr>
+  <tr>
+    <td width="50%" style="padding:6px 6px 0 0;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranya-1607&layout=compact&theme=merko" width="100%"/>
+    </td>
+    <td width="50%" style="padding:6px 0 0 6px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=saranya-1607&theme=react-dark&cache_seconds=1800" width="100%"/>
+    </td>
+  </tr>
 </table>
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%"/>
 

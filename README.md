@@ -35,7 +35,7 @@
 <table align="center" width="100%" cellspacing="0" cellpadding="0" border="0">
   <tr>
     <td width="50%" style="padding:6px 6px 6px 0;">
-     <img src="https://activity-graph.herokuapp.com/graph?username=saranya-1607&theme=react-dark" width="100%"/>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saranya-1607&layout=compact&theme=radical"/>
      
     </td>
     <td width="50%" style="padding:6px 0 6px 6px;">
